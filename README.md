@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the customer purchase funnel for a toy store e-commerce platform, identifying where visitors drop off between landing on the site and completing a purchase. It combines SQL-based funnel modeling, statistical A/B testing, and an interactive Tableau dashboard to surface actionable insights for marketing and product teams.
+This project analyzes the customer purchase funnel for a toy store e-commerce platform, identifying where visitors drop off between landing on the site and completing a purchase. It combines SQL-based funnel modeling, statistical A/B testing, and a Tableau dashboard to discover and visualize actionable insights for marketing and product teams.
 
 **Core question:** Where do customers drop off in the purchase funnel, and which design/landing page changes measurably improved conversion?
 
@@ -91,10 +91,9 @@ A chi-square test of independence was conducted across all six entry page varian
 
 ## Dashboard
 
-An interactive Tableau dashboard visualizes the visitor funnel, revenue by traffic source, and month-over-month revenue trends.
+A Tableau dashboard visualizing the visitor funnel, revenue by traffic source, and month-over-month revenue trends.
 
-*(Dashboard link / screenshot here)*
-
+https://public.tableau.com/app/profile/gabrielle.epelle/viz/Toystore-Sales-Analysis/Dashboard1
 ## Recommendations
 
 1. **Invest further in lander-5's design approach.** It is the only iteration to deliver a statistically significant improvement over the original homepage, suggesting its design elements (messaging, layout, or CTA placement) should inform future landing page work.
